@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi, I'm Paarth 👋
+About Me • Learning Data Analytics & AI • Passionate about Technology • Currently building real-world projects • Goal: Become Industry Ready Developer
+Skills • Python • SQL • Excel • Git & GitHub • Data Analysis (Learning)
+Currently Learning • Data Visualization • Machine Learning Basics
 
 <!--
 **paarth-gen-ai/paarth-gen-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
